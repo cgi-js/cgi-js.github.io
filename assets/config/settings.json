@@ -55,6 +55,11 @@
                 "link": "/"
             },
             {
+                "tag": "CGIJS Introduction",
+                "type": "internal",
+                "link": "/cgi"
+            },
+            {
                 "tag": "cgi-js cgi file module",
                 "children": [
                     {

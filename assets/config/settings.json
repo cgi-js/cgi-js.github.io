@@ -143,10 +143,6 @@
                         "link": "/processes/fork"
                     },
                     {
-                        "tag": ".sqlite [TODO]",
-                        "link": "/processes/sqlite"
-                    },
-                    {
                         "tag": ".jobs [TODO]",
                         "link": "/processes/jobs"
                     },
@@ -185,11 +181,11 @@
                         "link": "/db/redis"
                     },
                     {
-                        "tag": "Sqlite [TODO]",
-                        "link": "/db/sqlite"
+                        "tag": "EmbeddedDB [TODO]",
+                        "link": "/db/embeddeddb"
                     },
                     {
-                        "tag": "EmbeddedDB",
+                        "tag": "Other Databases [TODO]",
                         "link": "/db/embeddeddb"
                     }
                 ]
@@ -222,6 +218,11 @@
                         "link": "/servers/embeddedserver"
                     }
                 ]
+            },
+            {
+                "tag": "Issues - cgijs",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js/issues"
             },
             {
                 "tag": "Github - cgijs",

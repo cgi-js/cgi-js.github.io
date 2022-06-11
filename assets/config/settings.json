@@ -17,12 +17,12 @@
                 {
                     "title": "Users Reference",
                     "description": "A simple developers reference",
-                    "url": "https://ganeshkbhat.github.io/#/profile"
+                    "url": "/documentation"
                 },
                 {
                     "title": "API Reference",
                     "description": "Detailed developers reference",
-                    "url": "https://ganeshkbhat.github.io/#/projects"
+                    "url": "/apireference"
                 }
             ]
         }

@@ -157,7 +157,7 @@
                 ]
             },
             {
-                "tag": "cgi-js db module",
+                "tag": "cgi-js db server usage",
                 "children": [
                     {
                         "tag": "Introduction",
@@ -173,7 +173,7 @@
                         "link": "/db/mongo"
                     },
                     {
-                        "tag": "PgSQL",
+                        "tag": "PgSQL [TODO]",
                         "link": "/db/pgsql"
                     },
                     {
@@ -191,7 +191,7 @@
                 ]
             },
             {
-                "tag": "cgi-js Servers",
+                "tag": "cgi-js web server usage",
                 "children": [
                     {
                         "tag": "Introduction",

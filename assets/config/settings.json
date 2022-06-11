@@ -157,7 +157,7 @@
                 ]
             },
             {
-                "tag": "cgi-js manage db servers",
+                "tag": "Manage db servers",
                 "children": [
                     {
                         "tag": "Introduction",
@@ -191,7 +191,7 @@
                 ]
             },
             {
-                "tag": "cgi-js manage webservers",
+                "tag": "Manage Webservers",
                 "children": [
                     {
                         "tag": "Introduction",

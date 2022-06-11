@@ -1,0 +1,458 @@
+{
+    "filetype": "markdown",
+    "home": {
+        "type": "landing",
+        "url": "/",
+        "highlight": {
+            "type": "text",
+            "img": "/assets/img/new-file-1.svg",
+            "heading": "CGIJS Documentation",
+            "description": "Ganesh is a straightforward person. He never invites unethical, unaccountable, and irresponsible people to connect but definitely invites ethical, responsible, and accountable people to connect even if he hates them to the core. Ganesh believes education, age, status, position, and money is not a warranty for ethics, nor humanity, nor success.",
+            "buttontext": "CGIJS Introduction",
+            "buttonurl": "/intro"
+        },
+        "blocks": {
+            "heading": "Here is a quick read about what I am working on right now",
+            "items": [
+                {
+                    "title": "Users Reference",
+                    "description": "Take a look at my profile.",
+                    "url": "https://ganeshkbhat.github.io/#/profile"
+                },
+                {
+                    "title": "API Reference",
+                    "description": "Projects I am working on or maintaining right now.",
+                    "url": "https://ganeshkbhat.github.io/#/projects"
+                }
+            ]
+        }
+    },
+    "topnav": {
+        "brandname": " { cgijs } ",
+        "logo": "/assets/img/logo.png",
+        "nav": [
+            {
+                "tag": "cgi-js Documentation",
+                "type": "internal",
+                "link": "/documentation"
+            },
+            {
+                "tag": "cgi-js API Reference",
+                "type": "internal",
+                "link": "/apireference"
+            },
+            {
+                "tag": "Github",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js"
+            }
+        ]
+    },
+    "sidebar": {
+        "nav": [
+            {
+                "tag": "Home",
+                "link": "/"
+            },
+            {
+                "tag": "Github",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js"
+            },
+            {
+                "tag": "cgi-js Users Documentation",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/documentation"
+                    },
+                    {
+                        "tag": "cgi-js cgi file module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/cgi/intro"
+                            },
+                            {
+                                "tag": "Nodejs",
+                                "link": "/cgi/nodejs"
+                            },
+                            {
+                                "tag": "Perl",
+                                "type": "internal",
+                                "link": "/cgi/perl"
+                            },
+                            {
+                                "tag": "PHP",
+                                "link": "/cgi/php"
+                            },
+                            {
+                                "tag": "Python",
+                                "link": "/cgi/python"
+                            },
+                            {
+                                "tag": "Ruby",
+                                "link": "/cgi/ruby"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js db module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/db/intro"
+                            },
+                            {
+                                "tag": "Mysql",
+                                "link": "/db/mysql"
+                            },
+                            {
+                                "tag": "MongoDB",
+                                "type": "internal",
+                                "link": "/db/mongo"
+                            },
+                            {
+                                "tag": "PgSQL",
+                                "link": "/db/pgsql"
+                            },
+                            {
+                                "tag": "Redis",
+                                "link": "/db/redis"
+                            },
+                            {
+                                "tag": "sqlite",
+                                "link": "/db/sqlite"
+                            },
+                            {
+                                "tag": "EmbeddedDB",
+                                "link": "/db/embeddeddb"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js process module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/processes/intro"
+                            },
+                            {
+                                "tag": ".start",
+                                "link": "/processes/start"
+                            },
+                            {
+                                "tag": ".stop",
+                                "type": "internal",
+                                "link": "/processes/stop"
+                            },
+                            {
+                                "tag": ".exec",
+                                "link": "/processes/exec"
+                            },
+                            {
+                                "tag": ".execFile",
+                                "link": "/processes/execfile"
+                            },
+                            {
+                                "tag": ".spawn",
+                                "link": "/processes/spawn"
+                            },
+                            {
+                                "tag": ".fork",
+                                "link": "/processes/fork"
+                            },
+                            {
+                                "tag": ".sqlite [TODO]",
+                                "link": "/processes/sqlite"
+                            },
+                            {
+                                "tag": ".jobs [TODO]",
+                                "link": "/processes/jobs"
+                            },
+                            {
+                                "tag": "Processes",
+                                "link": "/processes/processes"
+                            },
+                            {
+                                "tag": ".execAsync [TODO]",
+                                "link": "/processes/execasync"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js proxy module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/proxy/intro"
+                            },
+                            {
+                                "tag": "Web HTTP/S Support",
+                                "link": "/proxy/web"
+                            },
+                            {
+                                "tag": "WebSocket Support",
+                                "link": "/proxy/websocket"
+                            },
+                            {
+                                "tag": "Other Protocols",
+                                "link": "/proxy/others"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js Servers",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/servers/intro"
+                            },
+                            {
+                                "tag": "Apache HTTPD",
+                                "link": "/servers/httpd"
+                            },
+                            {
+                                "tag": "Nginx",
+                                "link": "/servers/nginx"
+                            },
+                            {
+                                "tag": "Apache Tomcat",
+                                "link": "/servers/tomcat"
+                            },
+                            {
+                                "tag": "Other Servers",
+                                "link": "/servers/others"
+                            },
+                            {
+                                "tag": "Embedded Server",
+                                "link": "/servers/embeddedserver"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "tag": "cgi-js Users Documentation",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/documentation"
+                    },
+                    {
+                        "tag": "cgi-js cgi file module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/cgi/intro"
+                            },
+                            {
+                                "tag": "Nodejs",
+                                "link": "/cgi/nodejs"
+                            },
+                            {
+                                "tag": "Perl",
+                                "type": "internal",
+                                "link": "/cgi/perl"
+                            },
+                            {
+                                "tag": "PHP",
+                                "link": "/cgi/php"
+                            },
+                            {
+                                "tag": "Python",
+                                "link": "/cgi/python"
+                            },
+                            {
+                                "tag": "Ruby",
+                                "link": "/cgi/ruby"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js db module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/db/intro"
+                            },
+                            {
+                                "tag": "Mysql",
+                                "link": "/db/mysql"
+                            },
+                            {
+                                "tag": "MongoDB",
+                                "type": "internal",
+                                "link": "/db/mongo"
+                            },
+                            {
+                                "tag": "PgSQL",
+                                "link": "/db/pgsql"
+                            },
+                            {
+                                "tag": "Redis",
+                                "link": "/db/redis"
+                            },
+                            {
+                                "tag": "sqlite",
+                                "link": "/db/sqlite"
+                            },
+                            {
+                                "tag": "EmbeddedDB",
+                                "link": "/db/embeddeddb"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js process module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/processes/intro"
+                            },
+                            {
+                                "tag": ".start",
+                                "link": "/processes/start"
+                            },
+                            {
+                                "tag": ".stop",
+                                "type": "internal",
+                                "link": "/processes/stop"
+                            },
+                            {
+                                "tag": ".exec",
+                                "link": "/processes/exec"
+                            },
+                            {
+                                "tag": ".execFile",
+                                "link": "/processes/execfile"
+                            },
+                            {
+                                "tag": ".spawn",
+                                "link": "/processes/spawn"
+                            },
+                            {
+                                "tag": ".fork",
+                                "link": "/processes/fork"
+                            },
+                            {
+                                "tag": ".sqlite [TODO]",
+                                "link": "/processes/sqlite"
+                            },
+                            {
+                                "tag": ".jobs [TODO]",
+                                "link": "/processes/jobs"
+                            },
+                            {
+                                "tag": "Processes",
+                                "link": "/processes/processes"
+                            },
+                            {
+                                "tag": ".execAsync [TODO]",
+                                "link": "/processes/execasync"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js proxy module",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/proxy/intro"
+                            },
+                            {
+                                "tag": "Web HTTP/S Support",
+                                "link": "/proxy/web"
+                            },
+                            {
+                                "tag": "WebSocket Support",
+                                "link": "/proxy/websocket"
+                            },
+                            {
+                                "tag": "Other Protocols",
+                                "link": "/proxy/others"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "cgi-js Servers",
+                        "children": [
+                            {
+                                "tag": "Introduction",
+                                "link": "/servers/intro"
+                            },
+                            {
+                                "tag": "Apache HTTPD",
+                                "link": "/servers/httpd"
+                            },
+                            {
+                                "tag": "Nginx",
+                                "link": "/servers/nginx"
+                            },
+                            {
+                                "tag": "Apache Tomcat",
+                                "link": "/servers/tomcat"
+                            },
+                            {
+                                "tag": "Other Servers",
+                                "link": "/servers/others"
+                            },
+                            {
+                                "tag": "Embedded Server",
+                                "link": "/servers/embeddedserver"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "tag": "Github - cgijs",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js"
+            }
+        ]
+    },
+    "footer": {
+        "copyright": {
+            "tag": " { cgijs } ",
+            "link": "https://github.com/cgi-js/cgi-js",
+            "type": "external",
+            "text": "Made with ngDocumentor"
+        },
+        "nav": [],
+        "social": [
+            {
+                "tag": "Github",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js"
+            },
+            {
+                "tag": "Quora",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js"
+            },
+            {
+                "tag": "Facebook",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js"
+            },
+            {
+                "tag": "Discord",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js"
+            }
+        ]
+    },
+    "search": {
+        "type": "keywords",
+        "stopwords": [],
+        "meta": [
+            {
+                "url": "/home",
+                "keywords": [
+                    
+                ]
+            }
+        ]
+    }
+}

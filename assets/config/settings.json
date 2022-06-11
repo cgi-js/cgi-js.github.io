@@ -85,36 +85,23 @@
                 ]
             },
             {
-                "tag": "cgi-js db module",
+                "tag": "cgi-js proxy module",
                 "children": [
                     {
                         "tag": "Introduction",
-                        "link": "/db/intro"
+                        "link": "/proxy/intro"
                     },
                     {
-                        "tag": "Mysql",
-                        "link": "/db/mysql"
+                        "tag": "Web HTTP/S Support",
+                        "link": "/proxy/web"
                     },
                     {
-                        "tag": "MongoDB",
-                        "type": "internal",
-                        "link": "/db/mongo"
+                        "tag": "WebSocket Support",
+                        "link": "/proxy/websocket"
                     },
                     {
-                        "tag": "PgSQL",
-                        "link": "/db/pgsql"
-                    },
-                    {
-                        "tag": "Redis",
-                        "link": "/db/redis"
-                    },
-                    {
-                        "tag": "sqlite",
-                        "link": "/db/sqlite"
-                    },
-                    {
-                        "tag": "EmbeddedDB",
-                        "link": "/db/embeddeddb"
+                        "tag": "Other Protocols",
+                        "link": "/proxy/others"
                     }
                 ]
             },
@@ -169,23 +156,36 @@
                 ]
             },
             {
-                "tag": "cgi-js proxy module",
+                "tag": "cgi-js db module",
                 "children": [
                     {
                         "tag": "Introduction",
-                        "link": "/proxy/intro"
+                        "link": "/db/intro"
                     },
                     {
-                        "tag": "Web HTTP/S Support",
-                        "link": "/proxy/web"
+                        "tag": "Mysql",
+                        "link": "/db/mysql"
                     },
                     {
-                        "tag": "WebSocket Support",
-                        "link": "/proxy/websocket"
+                        "tag": "MongoDB",
+                        "type": "internal",
+                        "link": "/db/mongo"
                     },
                     {
-                        "tag": "Other Protocols",
-                        "link": "/proxy/others"
+                        "tag": "PgSQL",
+                        "link": "/db/pgsql"
+                    },
+                    {
+                        "tag": "Redis",
+                        "link": "/db/redis"
+                    },
+                    {
+                        "tag": "sqlite",
+                        "link": "/db/sqlite"
+                    },
+                    {
+                        "tag": "EmbeddedDB",
+                        "link": "/db/embeddeddb"
                     }
                 ]
             },

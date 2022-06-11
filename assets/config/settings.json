@@ -7,7 +7,7 @@
             "type": "text",
             "img": "/assets/img/new-file-1.svg",
             "heading": "CGIJS Documentation",
-            "description": "Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies. CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system. CGIJS library: ** Supports running any CGI / Interpreted Language scripts in any OS that runs node.js. ** Supports both CGI executables as well as proxy to localhost/ remote /embedded servers using proxying of multiple protocols (http, websockets, tcp, udp, socks, ssh, ftp). ** Supports managing processes like embedded server executables, embedded database executables, or any other embedded/ non-embedded executables",
+            "description": "Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies. CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system. CGIJS library: *1* Supports running any CGI / Interpreted Language scripts in any OS that runs node.js. *2* Supports both CGI executables as well as proxy to localhost/ remote /embedded servers using proxying of multiple protocols (http, websockets, tcp, udp, socks, ssh, ftp). *3* Supports managing processes like embedded server executables, embedded database executables, or any other embedded/ non-embedded executables",
             "buttontext": "CGIJS Introduction",
             "buttonurl": "/intro"
         },

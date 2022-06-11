@@ -157,7 +157,7 @@
                 ]
             },
             {
-                "tag": "Manage db servers",
+                "tag": "Manage DB servers",
                 "children": [
                     {
                         "tag": "Introduction",
@@ -191,7 +191,7 @@
                 ]
             },
             {
-                "tag": "Manage Webservers",
+                "tag": "Manage Web servers",
                 "children": [
                     {
                         "tag": "Introduction",

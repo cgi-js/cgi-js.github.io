@@ -16,12 +16,12 @@
             "items": [
                 {
                     "title": "Users Reference",
-                    "description": "Take a look at my profile.",
+                    "description": "A simple developers reference",
                     "url": "https://ganeshkbhat.github.io/#/profile"
                 },
                 {
                     "title": "API Reference",
-                    "description": "Projects I am working on or maintaining right now.",
+                    "description": "Detailed developers reference",
                     "url": "https://ganeshkbhat.github.io/#/projects"
                 }
             ]
@@ -53,11 +53,6 @@
             {
                 "tag": "Home",
                 "link": "/"
-            },
-            {
-                "tag": "Github",
-                "type": "external",
-                "link": "https://github.com/cgi-js/cgi-js"
             },
             {
                 "tag": "cgi-js cgi file module",
@@ -164,7 +159,7 @@
                         "link": "/processes/jobs"
                     },
                     {
-                        "tag": "Processes",
+                        "tag": "processes",
                         "link": "/processes/processes"
                     },
                     {

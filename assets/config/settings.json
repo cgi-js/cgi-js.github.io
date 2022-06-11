@@ -32,12 +32,12 @@
         "logo": "/assets/img/logo.png",
         "nav": [
             {
-                "tag": "cgi-js Documentation",
+                "tag": "Documentation",
                 "type": "internal",
                 "link": "/documentation"
             },
             {
-                "tag": "cgi-js API Reference",
+                "tag": "API Reference",
                 "type": "internal",
                 "link": "/apireference"
             },

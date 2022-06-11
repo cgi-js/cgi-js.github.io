@@ -12,7 +12,7 @@
             "buttonurl": "/intro"
         },
         "blocks": {
-            "heading": "Here is a quick read about where CGIJS is right now",
+            "heading": "Here is a quick read about where *cgijs* is right now",
             "items": [
                 {
                     "title": "Users Reference",

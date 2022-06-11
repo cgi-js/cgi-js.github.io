@@ -118,11 +118,11 @@
                         "link": "/processes/intro"
                     },
                     {
-                        "tag": ".start",
+                        "tag": ".execAction start",
                         "link": "/processes/start"
                     },
                     {
-                        "tag": ".stop",
+                        "tag": ".execAction stop",
                         "type": "internal",
                         "link": "/processes/stop"
                     },

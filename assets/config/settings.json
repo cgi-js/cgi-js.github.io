@@ -150,6 +150,10 @@
                         "link": "/proxy/servingproxy"
                     },
                     {
+                        "tag": "Embedding Servers",
+                        "link": "/proxy/embedded"
+                    },
+                    {
                         "tag": "Local Proxy",
                         "link": "/proxy/local"
                     },
@@ -172,10 +176,6 @@
                     {
                         "tag": "Other Protocols",
                         "link": "/proxy/others"
-                    },
-                    {
-                        "tag": "Embedding Servers",
-                        "link": "/proxy/embedded"
                     }
                 ]
             },

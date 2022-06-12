@@ -7,12 +7,12 @@
             "type": "text",
             "img": "/assets/img/new-file-1.svg",
             "heading": "CGIJS Documentation",
-            "description": "Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies. CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system. CGIJS library: (*1*) Supports running any CGI / Interpreted Language scripts in any OS that runs node.js. (*2*) Supports both CGI executables as well as proxy to localhost/ remote /embedded servers using proxying of multiple protocols (http, websockets, tcp, udp, socks, ssh, ftp). (*3*) Supports managing processes like embedded server executables, embedded database executables, or any other embedded/ non-embedded executables",
+            "description": "Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies. CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system.",
             "buttontext": "CGIJS Introduction",
             "buttonurl": "/intro"
         },
         "blocks": {
-            "heading": "Here is a quick read about where CGIJS is right now",
+            "heading": "Here is a quick read about the directions",
             "items": [
                 {
                     "title": "Users Reference",
@@ -143,10 +143,6 @@
                         "link": "/processes/fork"
                     },
                     {
-                        "tag": ".sqlite [TODO]",
-                        "link": "/processes/sqlite"
-                    },
-                    {
                         "tag": ".jobs [TODO]",
                         "link": "/processes/jobs"
                     },
@@ -161,7 +157,7 @@
                 ]
             },
             {
-                "tag": "cgi-js db module",
+                "tag": "Manage DB servers",
                 "children": [
                     {
                         "tag": "Introduction",
@@ -177,7 +173,7 @@
                         "link": "/db/mongo"
                     },
                     {
-                        "tag": "PgSQL",
+                        "tag": "PgSQL [TODO]",
                         "link": "/db/pgsql"
                     },
                     {
@@ -185,17 +181,17 @@
                         "link": "/db/redis"
                     },
                     {
-                        "tag": "Sqlite [TODO]",
-                        "link": "/db/sqlite"
+                        "tag": "EmbeddedDB [TODO]",
+                        "link": "/db/embeddeddb"
                     },
                     {
-                        "tag": "EmbeddedDB",
+                        "tag": "Other Databases [TODO]",
                         "link": "/db/embeddeddb"
                     }
                 ]
             },
             {
-                "tag": "cgi-js Servers",
+                "tag": "Manage Web servers",
                 "children": [
                     {
                         "tag": "Introduction",
@@ -222,6 +218,11 @@
                         "link": "/servers/embeddedserver"
                     }
                 ]
+            },
+            {
+                "tag": "Issues - cgijs",
+                "type": "external",
+                "link": "https://github.com/cgi-js/cgi-js/issues"
             },
             {
                 "tag": "Github - cgijs",

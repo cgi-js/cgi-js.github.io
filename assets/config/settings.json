@@ -104,7 +104,7 @@
                     },
                     {
                         "tag": "Embedding Binaries [TODO]",
-                        "link": "/servers/embeddedexecutables"
+                        "link": "/processes/embeddedexecutables"
                     },
                     {
                         "tag": "Architecture [TODO]",
@@ -221,7 +221,7 @@
                     },
                     {
                         "tag": "Embedding Binaries [TODO]",
-                        "link": "/db/embeddeddb"
+                        "link": "/processes/embeddedexecutables"
                     }
                 ]
             },
@@ -254,7 +254,7 @@
                     },
                     {
                         "tag": "Embedding Binaries [TODO]",
-                        "link": "/servers/embeddedexecutables"
+                        "link": "/processes/embeddedexecutables"
                     }
                 ]
             },

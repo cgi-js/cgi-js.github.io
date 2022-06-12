@@ -162,6 +162,10 @@
                         "link": "/proxy/websocket"
                     },
                     {
+                        "tag": "Remote Proxy",
+                        "link": "/proxy/remote"
+                    },
+                    {
                         "tag": "Other Protocols",
                         "link": "/proxy/others"
                     }

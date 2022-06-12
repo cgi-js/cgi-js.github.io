@@ -162,12 +162,12 @@
                         "link": "/proxy/web"
                     },
                     {
-                        "tag": "Web HTTP/S Support",
-                        "link": "/proxy/web"
-                    },
-                    {
                         "tag": "WebSocket(ws/s) Support",
                         "link": "/proxy/websocket"
+                    },
+                    {
+                        "tag": "HTTPS Authentication",
+                        "link": "/proxy/authentication"
                     },
                     {
                         "tag": "Other Protocols",

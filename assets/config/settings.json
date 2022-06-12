@@ -103,10 +103,6 @@
                         "link": "/processes/execasync"
                     },
                     {
-                        "tag": "Embedding Binaries [TODO]",
-                        "link": "/processes/embeddedexecutables"
-                    },
-                    {
                         "tag": "Architecture [TODO]",
                         "link": "/processes/arch"
                     }
@@ -218,10 +214,6 @@
                     {
                         "tag": "Other Databases [TODO]",
                         "link": "/db/others"
-                    },
-                    {
-                        "tag": "Embedding Binaries [TODO]",
-                        "link": "/processes/embeddedexecutables"
                     }
                 ]
             },
@@ -251,10 +243,6 @@
                     {
                         "tag": "Inbuilt Server [TODO]",
                         "link": "/servers/inbuiltserver"
-                    },
-                    {
-                        "tag": "Embedding Binaries [TODO]",
-                        "link": "/processes/embeddedexecutables"
                     }
                 ]
             },

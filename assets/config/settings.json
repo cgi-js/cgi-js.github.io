@@ -176,6 +176,10 @@
                     {
                         "tag": "Other Protocols",
                         "link": "/proxy/others"
+                    },
+                    {
+                        "tag": "Architecture",
+                        "link": "/proxy/arch"
                     }
                 ]
             },

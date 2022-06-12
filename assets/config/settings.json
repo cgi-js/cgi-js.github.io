@@ -172,6 +172,10 @@
                     {
                         "tag": "Other Protocols",
                         "link": "/proxy/others"
+                    },
+                    {
+                        "tag": "Embedding Servers",
+                        "link": "/proxy/embedded"
                     }
                 ]
             },

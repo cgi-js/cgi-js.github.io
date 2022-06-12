@@ -101,6 +101,10 @@
                     {
                         "tag": ".execAsync [TODO]",
                         "link": "/processes/execasync"
+                    },
+                    {
+                        "tag": "Architecture",
+                        "link": "/processes/arch"
                     }
                 ]
             },

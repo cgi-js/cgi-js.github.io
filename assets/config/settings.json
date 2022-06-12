@@ -131,6 +131,10 @@
                     {
                         "tag": "Ruby",
                         "link": "/cgi/ruby"
+                    },
+                    {
+                        "tag": "Others",
+                        "link": "/cgi/others"
                     }
                 ]
             },

@@ -17,12 +17,12 @@
                 {
                     "title": "Users Reference",
                     "description": "A simple developers reference",
-                    "url": "/documentation"
+                    "url": "/#/documentation"
                 },
                 {
                     "title": "API Reference",
                     "description": "Detailed developers reference",
-                    "url": "/apireference"
+                    "url": "/#/apireference"
                 }
             ]
         }

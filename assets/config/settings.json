@@ -150,6 +150,14 @@
                         "link": "/proxy/servingproxy"
                     },
                     {
+                        "tag": "Local Proxy",
+                        "link": "/proxy/local"
+                    },
+                    {
+                        "tag": "Remote Proxy",
+                        "link": "/proxy/remote"
+                    },
+                    {
                         "tag": "Web HTTP/S Support",
                         "link": "/proxy/web"
                     },
@@ -160,10 +168,6 @@
                     {
                         "tag": "WebSocket(ws/s) Support",
                         "link": "/proxy/websocket"
-                    },
-                    {
-                        "tag": "Remote Proxy",
-                        "link": "/proxy/remote"
                     },
                     {
                         "tag": "Other Protocols",

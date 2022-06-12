@@ -60,6 +60,27 @@
                 "link": "/cgi"
             },
             {
+                "tag": "cgi-js proxy module",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/proxy/intro"
+                    },
+                    {
+                        "tag": "Web HTTP/S Support",
+                        "link": "/proxy/web"
+                    },
+                    {
+                        "tag": "WebSocket Support",
+                        "link": "/proxy/websocket"
+                    },
+                    {
+                        "tag": "Other Protocols",
+                        "link": "/proxy/others"
+                    }
+                ]
+            },
+            {
                 "tag": "cgi-js cgi file module",
                 "children": [
                     {
@@ -86,27 +107,6 @@
                     {
                         "tag": "Ruby",
                         "link": "/cgi/ruby"
-                    }
-                ]
-            },
-            {
-                "tag": "cgi-js proxy module",
-                "children": [
-                    {
-                        "tag": "Introduction",
-                        "link": "/proxy/intro"
-                    },
-                    {
-                        "tag": "Web HTTP/S Support",
-                        "link": "/proxy/web"
-                    },
-                    {
-                        "tag": "WebSocket Support",
-                        "link": "/proxy/websocket"
-                    },
-                    {
-                        "tag": "Other Protocols",
-                        "link": "/proxy/others"
                     }
                 ]
             },

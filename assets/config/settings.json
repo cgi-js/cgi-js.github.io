@@ -65,15 +65,9 @@
                     {
                         "tag": "Introduction",
                         "link": "/processes/intro"
-                    },
-                    {
-                        "tag": ".execAction start",
-                        "link": "/processes/start"
-                    },
-                    {
-                        "tag": ".execAction stop",
-                        "type": "internal",
-                        "link": "/processes/stop"
+                    },{
+                        "tag": "processes",
+                        "link": "/processes/processes"
                     },
                     {
                         "tag": ".exec",
@@ -92,12 +86,17 @@
                         "link": "/processes/fork"
                     },
                     {
-                        "tag": ".jobs [TODO]",
-                        "link": "/processes/jobs"
+                        "tag": ".execAction start",
+                        "link": "/processes/start"
                     },
                     {
-                        "tag": "processes",
-                        "link": "/processes/processes"
+                        "tag": ".execAction stop",
+                        "type": "internal",
+                        "link": "/processes/stop"
+                    },
+                    {
+                        "tag": ".jobs [TODO]",
+                        "link": "/processes/jobs"
                     },
                     {
                         "tag": ".execAsync [TODO]",

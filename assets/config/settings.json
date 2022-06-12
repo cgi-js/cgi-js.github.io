@@ -5,7 +5,7 @@
         "url": "/",
         "highlight": {
             "type": "text",
-            "img": "/assets/img/new-file-1.svg",
+            "img": "/assets/img/all_scripting_language.png",
             "heading": "CGIJS Documentation",
             "description": "Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies. CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system.",
             "buttontext": "CGIJS Introduction",
@@ -17,12 +17,12 @@
                 {
                     "title": "Users Reference",
                     "description": "A simple developers reference",
-                    "url": "/#/documentation"
+                    "url": "https://cgi-js.github.io/#/documentation"
                 },
                 {
                     "title": "API Reference",
                     "description": "Detailed developers reference",
-                    "url": "/#/apireference"
+                    "url": "https://cgi-js.github.io/#/apireference"
                 }
             ]
         }

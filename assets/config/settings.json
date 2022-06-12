@@ -271,21 +271,6 @@
                 "tag": "Github",
                 "type": "external",
                 "link": "https://github.com/cgi-js/cgi-js"
-            },
-            {
-                "tag": "Quora",
-                "type": "external",
-                "link": "https://github.com/cgi-js/cgi-js"
-            },
-            {
-                "tag": "Facebook",
-                "type": "external",
-                "link": "https://github.com/cgi-js/cgi-js"
-            },
-            {
-                "tag": "Discord",
-                "type": "external",
-                "link": "https://github.com/cgi-js/cgi-js"
             }
         ]
     },

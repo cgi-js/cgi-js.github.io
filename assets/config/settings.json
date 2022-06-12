@@ -103,7 +103,11 @@
                         "link": "/processes/execasync"
                     },
                     {
-                        "tag": "Architecture",
+                        "tag": "Embedding Binaries [TODO]",
+                        "link": "/servers/embeddedexecutables"
+                    },
+                    {
+                        "tag": "Architecture [TODO]",
                         "link": "/processes/arch"
                     }
                 ]
@@ -208,15 +212,15 @@
                         "link": "/db/redis"
                     },
                     {
-                        "tag": "EmbeddedDB [TODO]",
-                        "link": "/db/embeddeddb"
-                    },
-                    {
                         "tag": "PgSQL [TODO]",
                         "link": "/db/pgsql"
                     },
                     {
                         "tag": "Other Databases [TODO]",
+                        "link": "/db/others"
+                    },
+                    {
+                        "tag": "Embedding Binaries [TODO]",
                         "link": "/db/embeddeddb"
                     }
                 ]
@@ -241,12 +245,16 @@
                         "link": "/servers/tomcat"
                     },
                     {
-                        "tag": "Embedded Server",
-                        "link": "/servers/embeddedserver"
-                    },
-                    {
                         "tag": "Other Servers",
                         "link": "/servers/others"
+                    },
+                    {
+                        "tag": "Inbuilt Server [TODO]",
+                        "link": "/servers/inbuiltserver"
+                    },
+                    {
+                        "tag": "Embedding Binaries [TODO]",
+                        "link": "/servers/embeddedexecutables"
                     }
                 ]
             },

@@ -146,11 +146,19 @@
                         "link": "/proxy/intro"
                     },
                     {
+                        "tag": "Serving Proxy APIs",
+                        "link": "/proxy/servingproxy"
+                    },
+                    {
                         "tag": "Web HTTP/S Support",
                         "link": "/proxy/web"
                     },
                     {
-                        "tag": "WebSocket Support",
+                        "tag": "Web HTTP/S Support",
+                        "link": "/proxy/web"
+                    },
+                    {
+                        "tag": "WebSocket(ws/s) Support",
                         "link": "/proxy/websocket"
                     },
                     {

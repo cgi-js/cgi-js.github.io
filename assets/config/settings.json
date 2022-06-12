@@ -60,57 +60,6 @@
                 "link": "/cgi"
             },
             {
-                "tag": "cgi-js proxy module",
-                "children": [
-                    {
-                        "tag": "Introduction",
-                        "link": "/proxy/intro"
-                    },
-                    {
-                        "tag": "Web HTTP/S Support",
-                        "link": "/proxy/web"
-                    },
-                    {
-                        "tag": "WebSocket Support",
-                        "link": "/proxy/websocket"
-                    },
-                    {
-                        "tag": "Other Protocols",
-                        "link": "/proxy/others"
-                    }
-                ]
-            },
-            {
-                "tag": "cgi-js cgi file module",
-                "children": [
-                    {
-                        "tag": "Introduction",
-                        "link": "/cgi/intro"
-                    },
-                    {
-                        "tag": "Nodejs",
-                        "link": "/cgi/nodejs"
-                    },
-                    {
-                        "tag": "Perl",
-                        "type": "internal",
-                        "link": "/cgi/perl"
-                    },
-                    {
-                        "tag": "PHP",
-                        "link": "/cgi/php"
-                    },
-                    {
-                        "tag": "Python",
-                        "link": "/cgi/python"
-                    },
-                    {
-                        "tag": "Ruby",
-                        "link": "/cgi/ruby"
-                    }
-                ]
-            },
-            {
                 "tag": "cgi-js process module",
                 "children": [
                     {
@@ -157,6 +106,57 @@
                 ]
             },
             {
+                "tag": "cgi-js cgi file module",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/cgi/intro"
+                    },
+                    {
+                        "tag": "Nodejs",
+                        "link": "/cgi/nodejs"
+                    },
+                    {
+                        "tag": "Perl",
+                        "type": "internal",
+                        "link": "/cgi/perl"
+                    },
+                    {
+                        "tag": "PHP",
+                        "link": "/cgi/php"
+                    },
+                    {
+                        "tag": "Python",
+                        "link": "/cgi/python"
+                    },
+                    {
+                        "tag": "Ruby",
+                        "link": "/cgi/ruby"
+                    }
+                ]
+            },
+            {
+                "tag": "cgi-js proxy module",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/proxy/intro"
+                    },
+                    {
+                        "tag": "Web HTTP/S Support",
+                        "link": "/proxy/web"
+                    },
+                    {
+                        "tag": "WebSocket Support",
+                        "link": "/proxy/websocket"
+                    },
+                    {
+                        "tag": "Other Protocols",
+                        "link": "/proxy/others"
+                    }
+                ]
+            },
+            {
                 "tag": "Manage DB servers",
                 "children": [
                     {
@@ -173,16 +173,16 @@
                         "link": "/db/mongo"
                     },
                     {
-                        "tag": "PgSQL [TODO]",
-                        "link": "/db/pgsql"
-                    },
-                    {
                         "tag": "Redis",
                         "link": "/db/redis"
                     },
                     {
                         "tag": "EmbeddedDB [TODO]",
                         "link": "/db/embeddeddb"
+                    },
+                    {
+                        "tag": "PgSQL [TODO]",
+                        "link": "/db/pgsql"
                     },
                     {
                         "tag": "Other Databases [TODO]",
@@ -210,12 +210,12 @@
                         "link": "/servers/tomcat"
                     },
                     {
-                        "tag": "Other Servers",
-                        "link": "/servers/others"
-                    },
-                    {
                         "tag": "Embedded Server",
                         "link": "/servers/embeddedserver"
+                    },
+                    {
+                        "tag": "Other Servers",
+                        "link": "/servers/others"
                     }
                 ]
             },
